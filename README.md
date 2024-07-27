@@ -10,11 +10,11 @@ This is a Flutter app designed to help you track your expenses efficiently. With
 
 ## Screenshots
 
-![HomeScreen](screenshots/home_screen.png)
+![HomeScreen](Screenshots/home_screen.png)
 
-![AddScreen](screenshots/Add_screen.png)
+![AddScreen](Screenshots/Add_screen.png)
 
-![AlertScreen](screenshots/Orientation.png)
+![AlertScreen](Screenshots/Orientation.png)
 
 ## Usage
 
